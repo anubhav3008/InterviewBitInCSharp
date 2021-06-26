@@ -1,0 +1,12 @@
+
+*.dll
+*.json
+*.cache
+*.exe
+*.pdb
+*.CopyComplete
+*.txt
+*.targets
+*.props
+InterviewBitInDS/.vs/InterviewBitInDS/v16/.suo
+*obj*
