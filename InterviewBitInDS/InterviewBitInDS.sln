@@ -9,11 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Lights to Activate"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlipArray", "FlipArray\FlipArray.csproj", "{B5F90A53-2F8B-4CD5-827F-F4F2F18875CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestNumber", "LargestNumber\LargestNumber.csproj", "{964BE9E6-B3ED-458B-95E7-74508F16C6DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestNumber", "LargestNumber\LargestNumber.csproj", "{964BE9E6-B3ED-458B-95E7-74508F16C6DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSumContiguousSubArray", "MaxSumContiguousSubArray\MaxSumContiguousSubArray.csproj", "{EBD57765-6AC7-4D8F-BDE8-10BC3F3E7CD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxSumContiguousSubArray", "MaxSumContiguousSubArray\MaxSumContiguousSubArray.csproj", "{EBD57765-6AC7-4D8F-BDE8-10BC3F3E7CD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumAbsoluteDifference", "MaximumAbsoluteDifference\MaximumAbsoluteDifference.csproj", "{D72C549A-F177-49DD-9BE0-D995ACB8E652}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumAbsoluteDifference", "MaximumAbsoluteDifference\MaximumAbsoluteDifference.csproj", "{D72C549A-F177-49DD-9BE0-D995ACB8E652}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxSumTriplet", "MaxSumTriplet\MaxSumTriplet.csproj", "{9A7BEC99-254A-420F-BBD9-E152A21913F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Partitions", "Partitions\Partitions.csproj", "{9CF4569E-163A-4AED-887E-5DA0B929C2AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxAreaOfTriangle", "MaxAreaOfTriangle\MaxAreaOfTriangle.csproj", "{D6605FA8-C10E-4A2D-9DBC-F981760991D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateMatrix", "RotateMatrix\RotateMatrix.csproj", "{D74AFA61-17F4-497D-A60C-736C8AE65935}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +53,22 @@ Global
 		{D72C549A-F177-49DD-9BE0-D995ACB8E652}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D72C549A-F177-49DD-9BE0-D995ACB8E652}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D72C549A-F177-49DD-9BE0-D995ACB8E652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A7BEC99-254A-420F-BBD9-E152A21913F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7BEC99-254A-420F-BBD9-E152A21913F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7BEC99-254A-420F-BBD9-E152A21913F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7BEC99-254A-420F-BBD9-E152A21913F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF4569E-163A-4AED-887E-5DA0B929C2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF4569E-163A-4AED-887E-5DA0B929C2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF4569E-163A-4AED-887E-5DA0B929C2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF4569E-163A-4AED-887E-5DA0B929C2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6605FA8-C10E-4A2D-9DBC-F981760991D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6605FA8-C10E-4A2D-9DBC-F981760991D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6605FA8-C10E-4A2D-9DBC-F981760991D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6605FA8-C10E-4A2D-9DBC-F981760991D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74AFA61-17F4-497D-A60C-736C8AE65935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74AFA61-17F4-497D-A60C-736C8AE65935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74AFA61-17F4-497D-A60C-736C8AE65935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74AFA61-17F4-497D-A60C-736C8AE65935}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

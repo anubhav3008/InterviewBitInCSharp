@@ -10,7 +10,22 @@ namespace Utils
             var enumeration = x.GetEnumerator();
             while (enumeration.MoveNext())
             {
-                    Console.Write(enumeration.Current + ",");
+                    Console.Write(enumeration.Current + "\t");
+            }
+            Console.WriteLine();
+        }
+
+        public static void Print2D<T>(IEnumerable<IEnumerable<T>> x)
+        {
+            var enumeration = x.GetEnumerator();
+            while (enumeration.MoveNext())
+            {
+                var innerEnumeration = enumeration.Current.GetEnumerator();
+                while (innerEnumeration.MoveNext())
+                {
+                    Console.Write(innerEnumeration.Current + "\t");
+                }
+                Console.WriteLine();
             }
             Console.WriteLine();
         }
