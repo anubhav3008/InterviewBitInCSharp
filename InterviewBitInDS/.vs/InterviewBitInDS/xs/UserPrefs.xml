@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Flip/Program.cs">
+    <Files>
+      <File FileName="NextPermutation/Program.cs" Line="65" Column="24" />
+      <File FileName="Utils/Arrays.cs" Line="21" Column="32" />
+      <File FileName="Flip/Program.cs" Line="10" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterviewBitInDS" expanded="True">
+            <Node name="Arrays" expanded="True">
+              <Node name="ArrayMathAndArrangement" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Utils/Utils.csproj</String>
+    <String>RotateMatrix/RotateMatrix.csproj</String>
+    <String>Partitions/Partitions.csproj</String>
+    <String>NextPermutation/NextPermutation.csproj</String>
+    <String>Minimum Lights to Activate/Minimum Lights to Activate.csproj</String>
+    <String>MaxSumTriplet/MaxSumTriplet.csproj</String>
+    <String>MaxSumContiguousSubArray/MaxSumContiguousSubArray.csproj</String>
+    <String>MaximumAbsoluteDifference/MaximumAbsoluteDifference.csproj</String>
+    <String>MaxAreaOfTriangle/MaxAreaOfTriangle.csproj</String>
+    <String>LargestNumber/LargestNumber.csproj</String>
+    <String>FlipArray/FlipArray.csproj</String>
+    <String>Flip/Flip.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
