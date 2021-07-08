@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{7A38B73B-BABB-4EE2-B34B-56F0256D5389}|Default">
+﻿<Properties StartupConfiguration="{BD3A7284-3DFC-423F-9730-476B9B9A1784}|Default">
+  <MonoDevelop.Ide.ItemProperties.Arrays.RepeatedOrMissingNumber.RepeateAndMissingNUmberArray FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Arrays.Simulation.KthRowOfPascalTriangle PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Arrays.Simulation.PerfectPeak PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../Bucketing/TripletsWithSumBetweenGivenRange/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../RepeatedOrMissingNumber/RepeateAndMissingNUmberArray/Program.cs">
     <Files>
       <File FileName="../Simulation/PerfectPeak/Program.cs" Line="12" Column="10" />
       <File FileName="../Simulation/KthRowOfPascalTriangle/Program.cs" Line="17" Column="1" />
@@ -10,15 +11,18 @@
       <File FileName="../Simulation/AntiDiagonal/Program.cs" Line="25" Column="54" />
       <File FileName="../SpaceRecycle/FirstMissingInteger/Program.cs" Line="15" Column="10" />
       <File FileName="../SpaceRecycle/MaximumSUmSubSquare/Program.cs" Line="28" Column="38" />
-      <File FileName="../Bucketing/TripletsWithSumBetweenGivenRange/Program.cs" Line="1" Column="1" />
+      <File FileName="../Bucketing/TripletsWithSumBetweenGivenRange/Program.cs" Line="12" Column="1" />
+      <File FileName="../Bucketing/FindDuplicateInAnArray/Program.cs" Line="26" Column="10" />
+      <File FileName="../Bucketing/MaximumConsecutiveSum/Program.cs" Line="9" Column="47" />
+      <File FileName="../RepeatedOrMissingNumber/RepeateAndMissingNUmberArray/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InterviewBitInDS" expanded="True">
             <Node name="Arrays" expanded="True">
-              <Node name="Bucketing" expanded="True">
-                <Node name="TripletsWithSumBetweenGivenRange" expanded="True" selected="True" />
+              <Node name="RepeatedOrMissingNumber" expanded="True">
+                <Node name="RepeateAndMissingNUmberArray" expanded="True" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -38,6 +42,7 @@
   <MonoDevelop.Ide.ItemProperties.Utils PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Arrays.SpaceRecycle.MaximumSUmSubSquare PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Arrays.Bucketing.MaximumConsecutiveSum FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Arrays.Bucketing.TripletsWithSumBetweenGivenRange FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Arrays.Simulation.AntiDiagonal PreferredExecutionTarget="MonoDevelop.Default" />
@@ -46,4 +51,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Arrays.Simulation.PascalTriangle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Arrays.Bucketing.FindDuplicateInAnArray PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

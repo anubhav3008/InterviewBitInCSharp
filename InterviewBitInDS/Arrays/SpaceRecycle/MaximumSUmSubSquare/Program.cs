@@ -25,7 +25,7 @@ namespace MaximumSUmSubSquare
         public int solve(List<List<int>> A, int B)
         {
             int[][] leftSumMatrix = GetLeftSumMatrix(A);
-            int maxSum = 0;
+            int maxSum = int.MinValue;
             for(int i = 0; i + B  <= A.Count; i++)
             {
                 for(int j = 0; j + B <= A.Count; j++)
